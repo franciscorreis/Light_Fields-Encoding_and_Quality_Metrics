@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files (old structure - keeping for backwards compatibility)
+temp_frames_*/
+encoded_videos/
+results/
+graphs/
+
+# Output temporary files
+output/temp_frames_*/
+
+# Large files (videos) - uncomment if you don't want to track videos
+# output/encoded_videos/**/*.mp4
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Documentation
+*.pdf
+notas.md
+
