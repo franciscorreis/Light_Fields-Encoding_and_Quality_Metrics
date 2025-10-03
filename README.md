@@ -148,6 +148,32 @@ Universidade da Beira Interior (UBI)
 
 This project is available for educational and research purposes.
 
+## References
+
+### Datasets
+The light field datasets used in this project are sourced from:
+
+@misc{stanfordLF,
+    author = {Vaibhav Vaish and Andrew Adams and Bennett Wilburn and Marc Levoy},
+    title = {The {Stanford} Light Field Archive},
+    year = {2008},
+    howpublished = {\url{http://lightfield.stanford.edu/lfs.html}},
+    note = {Stanford Computer Graphics Laboratory. Accessed: 2 Oct. 2025}
+}
+
+### Quality Metrics Thresholds
+The quality evaluation thresholds used in this project are based on industry standards from:
+
+@online{elecard2022metrics,
+    author = {{Elecard}},
+    title = {Interpretation of Objective Video Quality Metrics},
+    year = {2022},
+    month = oct,
+    url = {https://www.elecard.com/page/article_interpretation_of_metrics},
+    urldate = {2025-10-02},
+    note = {Accessed: Oct. 2, 2025}
+}
+
 ## Acknowledgments
 
 This script was developed with assistance from Anthropic's Claude AI (Sonnet 4.5) through iterative prompting and refinement.
